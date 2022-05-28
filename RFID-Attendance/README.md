@@ -1,6 +1,0 @@
-# RFID-Attendance-system
-The RFID-based Attendance System is technologically advanced and was created to address the issue of manual attendance errors and inefficiency. The project system works by extracting the unique code from the card, comparing it to the database in the XAMPP Control Panel, and recording the user's arrival and departure times. The database's Graphical User Interface (GUI) was created with PHP to make it easier to access.
-In terms of hardware, The card UID is sent to the PHP Web app, and data is stored in the database using a NodeMCU ESP8266 development board with MF-RC522 Module. The project will assist lecturers and businesses in keeping an automatic record of their students' and employees' attendance. It contributes to the smooth operation of schools, colleges, offices, and businesses.
-
-
-
